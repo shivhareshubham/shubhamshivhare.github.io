@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Checkout my other website [on Netlify](https://shubhamshivhare.netlify.app)
+Checkout my other website on [Netlify](https://shubhamshivhare.netlify.app)
 
 You can use the [editor on GitHub](https://github.com/shivhareshubham/shubhamshivhare.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
